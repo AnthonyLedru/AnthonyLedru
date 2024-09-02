@@ -1,7 +1,7 @@
 # Hi there, I'm Anthony! <img src="hand.gif" width="30px">
 
 - ‍💻 I’m a Software Engineer developing mainly with React, NodeJS, Python and Laravel
-- 🌱 I’m currently CTO of [LeverGrow](https://levergrow.com)
+- 🌱 I’m currently freelance, and working on many projects
 - 🌐 You can contact me on [LinkedIn](https://www.linkedin.com/in/anthony-ledru/)
 
 
