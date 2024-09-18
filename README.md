@@ -1,6 +1,6 @@
 # Hi there, I'm Anthony! <img src="hand.gif" width="30px">
 
-- ‍💻 I’m a Software Engineer developing mainly with React, NodeJS, Python and Laravel
+- ‍💻 I’m a Full-stack Developer
 - 🌱 I’m currently freelance, and working on many projects
 - 🌐 You can contact me on [LinkedIn](https://www.linkedin.com/in/anthony-ledru/)
 
